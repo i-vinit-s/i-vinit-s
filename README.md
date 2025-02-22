@@ -1,4 +1,6 @@
-<h1 align="center">Hey there <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vinit, a passionate Developer. I love exploring the intersection of technology, constantly pushing my limits to build innovative and high-performing applications.</h1>
+<h1 align="center">Hey there <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vinit</h1>
+
+<p>A passionate Developer. I love exploring the intersection of technology, constantly pushing my limits to build innovative and high-performing applications.</p>
 
 ---
 
