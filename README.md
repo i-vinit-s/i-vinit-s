@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vinit</h1>
+<h1 align="center">Hey <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vinit</h1>
 
 <p>A passionate Developer. I love exploring the intersection of technology, constantly pushing my limits to build innovative and high-performing applications.</p>
 
@@ -15,9 +15,9 @@
 ## 📖 Currently Learning
 🚀 I'm always eager to learn and improve my skills. Right now, I’m focusing on:
 
-- **Advanced JavaScript & Backend Development (Node.js, Express.js, MongoDB).**
-- **Next.js & MERN Stack – Building full-stack web applications.**
-- **Optimizing Web Performance – Writing efficient, scalable code.**
+- Advanced JavaScript & Backend Development (Node.js, Express.js, MongoDB).
+- Next.js & MERN Stack – Building full-stack web applications.
+- Optimizing Web Performance – Writing efficient, scalable code.
 
 *I believe in continuous learning and always love exploring new technologies to stay ahead in the game! 🚀*
 
