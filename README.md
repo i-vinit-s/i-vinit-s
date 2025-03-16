@@ -6,7 +6,6 @@
 
 ## 🤙🏻 Currently I'm working on projects like
 - RexZ Docs – An Anti-nuke, Security & Moderation Bot documentation website.
-- Next.Js Website – A next.js platform with admin panel.
 
 *Apart from coding, I'm actively involved in GTA Roleplay.*
 
