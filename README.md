@@ -16,7 +16,6 @@
 🚀 I'm always eager to learn and improve my skills. Right now, I’m focusing on:
 
 - Advanced JavaScript & Backend Development (Node.js, Express.js, MongoDB).
-- Next.js & MERN Stack – Building full-stack web applications.
 - Optimizing Web Performance – Writing efficient, scalable code.
 
 *I believe in continuous learning and always love exploring new technologies to stay ahead in the game! 🚀*
