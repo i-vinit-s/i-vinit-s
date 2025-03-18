@@ -5,7 +5,7 @@
 ---
 
 ## 🤙🏻 Currently I'm working on projects like
-- RexZ Docs – An Anti-nuke, Security & Moderation Bot documentation website.
+- [RexZ Docs](https://github.com/i-vinit-s/RexZDoc) – An Anti-nuke, Security & Moderation Bot documentation website.
 
 *Apart from coding, I'm actively involved in GTA Roleplay.*
 
