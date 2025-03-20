@@ -30,9 +30,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![i-vinit-s's Stats](https://github-readme-stats.vercel.app/api?username=i-vinit-s&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=i-vinit-s&theme=dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-vinit-s&theme=swift&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-vinit-s&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=i-vinit-s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
