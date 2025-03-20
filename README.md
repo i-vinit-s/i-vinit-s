@@ -34,8 +34,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-vinit-s&theme=swift&hide_border=false)<br/>
 
-![i-vinit-s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-vinit-s&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=i-vinit-s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
