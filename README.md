@@ -30,7 +30,8 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-vinit-s&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=i-vinit-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=i-vinit-s&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=i-vinit-s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
