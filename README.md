@@ -30,9 +30,11 @@
 ---
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-vinit-s&show_icons=true&locale=en" alt="vinit" /></p>
+![i-vinit-s's Stats](https://github-readme-stats.vercel.app/api?username=i-vinit-s&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-vinit-s&theme=swift&hide_border=false)<br/>
+
+![i-vinit-s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-vinit-s&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=i-vinit-s&theme=radical&no-frame=false&no-bg=true&margin-w=4)
