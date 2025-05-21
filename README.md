@@ -5,6 +5,7 @@
 ---
 
 ## 🤙🏻 Currently I'm working on projects like
+- [Xeta](https://discord.com/oauth2/authorize?client_id=948150632982933504&permissions=8&integration_type=0&scope=applications.commands+bot) – An Advance discord music bot built to provide an exceptional music experience on Discord, with **lag-free playback, high quality sound** and **seamless functionality** for every server.
 - [RexZ Docs](https://docs.rexzbot.xyz/) – An Anti-nuke, Security & Moderation Bot documentation website.
 
 *Apart from coding, I'm actively involved in GTA Roleplay.*
